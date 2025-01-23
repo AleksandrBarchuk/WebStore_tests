@@ -5,7 +5,7 @@
 
 
  <ul>
-    <li><a href="https://docs.google.com/spreadsheets/d/152x_XiLu2toV2CowunFIbLZPbDCXzhZA0h2ODH6vpvY/edit?usp=sharing">Type tests</a> Types of testing applicable for testing an Online store </li>
+    <li><a href="https://docs.google.com/spreadsheets/d/152x_XiLu2toV2CowunFIbLZPbDCXzhZA0h2ODH6vpvY/edit?usp=sharing">Type tests</a> applicable for testing an Online store </li>
     
  
  
